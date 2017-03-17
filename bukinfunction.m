@@ -1,3 +1,9 @@
+% Bukin Function %
+% f (x) = 100(x2-0.01x1^2 +1) + 0.01(x1 + 10)^2 %
+% −15 ≤ x1 ≤ −5 and −3 ≤ x2 ≤ −3 %  
+% global minimum f(x1,x2) = (−10, 0) %
+
+
 clear
 clc
 warning off
